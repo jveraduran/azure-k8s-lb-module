@@ -1,4 +1,4 @@
-variable "resource-group" {
+variable "main-resource-group" {
   type = string
 }
 
